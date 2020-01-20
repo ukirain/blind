@@ -1,0 +1,161 @@
+{
+    "quests": [
+        {
+            "name": "quest1",
+            "properties": {
+				"dialogs": [
+					{
+						"id": 0,
+						"character": "player",
+						"text": "I love water.",
+						"bubble_type": "bubble1"
+					},
+					{
+						"id": 1,
+						"character": "player",
+						"text": "The liquid",
+						"bubble_type": "bubble1"
+					},
+					{
+						"id": 2,
+						"character": "player",
+						"text": "touches your nerve endings every moment",
+						"bubble_type": "bubble1"
+					},
+					{
+						"id": 3,
+						"character": "player",
+						"text": "and brings you incredible joy.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "It's a pity I can rarely feel it.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "Ora says,",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "the well is drying up",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "and we have to go farther than usual",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "to get some water.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "npc",
+						"text": "Wash the foam off your hands.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "npc",
+						"text": "We need to go.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "Okay.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "In spite of the disability,",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "I'm trying my best to help her",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "as much as I can.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "Though I'm not best in anything.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "I will try to do everything,",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "in my power.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "I need to get up.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "The most important things is not to fall.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "It's cold.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "I love this pleasant metallic scent.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "The scent of Ora.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "player",
+						"text": "It's so good, that she is by my side.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"id": 4,
+						"character": "npc",
+						"text": "Follow my voice, I will wipe you.",
+						"bubble_type": "bubble2"
+					}
+              	]
+            }
+		}
+    ]
+}

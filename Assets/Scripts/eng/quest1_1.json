@@ -1,0 +1,66 @@
+{
+    "quests": [
+        {
+			"name": "quest1.1",
+			"properties": {
+				"dialogs": [
+					{
+						"character": "npc",
+						"text": "Try to interact",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "with our friends.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Their hands are terribly cold",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "and they never speak.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "I know. But you need it.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "You need to be more social.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "I have you.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "I'm glad to be, but your world shouldn't",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "end on me...",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "You are my world.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "Come on, we need to go.",
+						"bubble_type": "bubble2"
+					}
+				]
+			}
+        }
+    ]
+}

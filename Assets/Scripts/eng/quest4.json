@@ -1,0 +1,106 @@
+{
+    "quests": [
+        {
+            "name": "quest4",
+            "properties": {
+				"dialogs": [
+					{
+						"character": "narrator",
+						"text": "He entered the shattered house",
+						"bubble_type": "bubble2"
+                    },
+                    {
+						"character": "narrator",
+						"text": "with broken windows.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "According to the shelves and stands,",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "it used to be the electronics shop.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "Walking between the stalls,",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "Po heard the creaking voice.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "What do you need here?",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "The voice was cold and rough.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Who are you and what is this place?",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "This is the shop.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "But who you are?",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Give me the bottle from that stall.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Red one",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Answer me...",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Give me the bottle from that stall.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Red one.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Okay... Red one",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "I don't know which one is red...",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Search on the computer.",
+						"bubble_type": "bubble2"
+					}
+				]
+          	}
+        }
+    ]
+}

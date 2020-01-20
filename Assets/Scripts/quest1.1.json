@@ -1,0 +1,66 @@
+﻿{
+    "quests": [
+        {
+			"name": "quest1.1",
+			"properties": {
+				"dialogs": [
+					{
+						"character": "npc",
+						"text": "Постарайся взаимодействовать",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "с нашими друзьями",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Их руки ужасно холодные",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "и они всегда молчат.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "Я понимаю. Но тебе это нужно.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "Тебе нужно больше общаться",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "У меня есть ты.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "Я рада быть, но твой мир не должен",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "ограничиваться мной...",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Ты и есть мой мир.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "Пойдём, нам нужно идти.",
+						"bubble_type": "bubble2"
+					}
+				]
+			}
+        }
+    ]
+}

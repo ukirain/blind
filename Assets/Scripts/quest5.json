@@ -1,0 +1,96 @@
+{
+    "quests": [
+        {
+            "name": "quest5",
+            "properties": {
+                "dialogs": [
+                    {
+                        "character": "player",
+                        "text": "Вот твоя бутылка.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Ответь мне...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Дверь захлопывается, прищемляя пальцы.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Ааай!",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Эй ты... Мне нужна помощь.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Черт, как же больно.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Он видел как по его рука текла жидкость,",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "выделяющаяся на фоне руки.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Он не видел ранее что-либо подобного.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Она контрастировала, была яркой и насыщенной",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "и сильно пахла железом.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Я не понимаю, что происходит.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Нужно... нужно найти Ору...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Она всегда мне помогала...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Мне нужна её помощь...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Где же ты...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Он вышел из магазина в поисках Оры",
+                        "bubble_type": "bubble2"
+                    }
+                ]
+            }
+        }
+    ]
+}

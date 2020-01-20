@@ -1,0 +1,77 @@
+{
+    "quests": [
+        {
+            "name": "intro",
+            "properties": {
+				"dialogs": [
+					{
+						"character": "narrator",
+						"text": "I will tolerate their cold hands.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "Wait here, I need to refuel.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "*laugh*",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Why noone is trying to fight",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "stale air and this disgusting smell",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "from the plant...",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "I can't believe that nobody cares.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "What a weird noise.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Sounds like cracking",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "the grasshopper did in that movie.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "It's a pity, they are never found here.",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "The noise is somewhere nearby...",
+						"bubble_type": "bubble2"
+					}
+				],
+				"actions": [
+					{
+						"name": "action1",
+						"text": "non action text"
+					}
+				]
+          	}
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "quests": [
+        {
+            "name": "quest3",
+            "properties": {
+                "dialogs": [
+                    {
+                        "character": "player",
+                        "text": "..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Ярко."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Это... Это мои руки?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Это мои ноги... живот..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Я, что вижу?!"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Я вижу!"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Сердце колотится."
+                    },
+                    {
+                        "character": "player",
+                        "text": "*вздох*"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Так... Я..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "*еще вздох*"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Где я?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Этот мир прекрасен. Он волшебный!"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Как в сказках."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Сердце колотится невероятно быстро,"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Словно мотор автомобиля,"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "набирающего скорость."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Каждое движение давалось с трудом."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "С трудом он понимал, что происходит."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Казалось, что это сон."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Но это было не так."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Молния, удар, ужасная боль и подарок,"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "полученный за мучения, что охватили его"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Где я?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Что это за кучи вокруг?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Это... Это похоже на дома."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Да, это дома, о которых говорила Ора."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Но... Но почему они такие страшные..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Пустые, разве в них не должны жить люди?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Мне нужно найти Ору."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Очень срочно..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Мне страшно. Ора."
+                    },
+                    {
+                        "character": "player",
+                        "text": "*вздох*"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Мне нужно быть сильным."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Чтобы она сделала на моем месте?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Надо найти её."
+                    }
+                ]
+            }
+        }
+    ]
+}

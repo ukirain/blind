@@ -1,0 +1,36 @@
+{
+    "quests": [
+        {
+            "name": "riddle1",
+            "properties": {
+                "dialogs": [
+                  {
+                    "character": "player",
+                    "good": "Excellent. Now you need to charge the consol.",
+                    "bad": "It's full of junk"
+                  },
+                    {
+                        "character": "player",
+                        "good": "Now I can connect to computer.",
+                        "bad": "This console is discharged."
+                    },
+                    {
+                        "character": "player",
+                        "good": "The needed bottle number: 88005553535.",
+                        "bad": "I don't know bottle number."
+                    },
+                    {
+                        "character": "player",
+                        "good": "Uh-huh, he needs АТ-АТ.",
+                        "bad": "I don't know whether this is the right bottle."
+                    },
+                    {
+                        "character": "player",
+                        "good": "Here is the bottle I need",
+                        "bad": "I don't know which bottle is red."
+                    }
+                ]
+            }
+        }
+    ]
+}

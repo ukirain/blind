@@ -1,0 +1,117 @@
+﻿{
+    "quests": [
+        {
+            "name": "intro",
+            "properties": {
+                "background": "intro_bg.png",
+              "dialogs": [
+                {
+                  "id": 0,
+                  "character": "player",
+                  "text": "я люблю воду.",
+                  "bubble_type": "bubble1"
+                },
+                {
+                  "id": 1,
+                  "character": "player",
+                  "text": "каждое мгновение",
+                  "bubble_type": "bubble1"
+                },
+                {
+                  "id": 2,
+                  "character": "player",
+                  "text": "жидкость касаетс¤ твоих нервных окончаний,",
+                  "bubble_type": "bubble1"
+                },
+                {
+                  "id": 3,
+                  "character": "player",
+                  "text": "доставляя невероятное блаженство.",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "Жаль, что я так редко могу чувствовать это",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "Ора говорит,",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "что колодец высыхает",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "и приходится за водой",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "ходить дальше обычного.",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "npc",
+                  "text": "смой пену с рук.",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "npc",
+                  "text": "Нам пора идти.",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "Хорошо",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "Несмотря на мою ущербность",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "я всеми силами",
+                  "bubble_type": "bubble2"
+                },
+                {
+                  "id": 4,
+                  "character": "player",
+                  "text": "Несмотря на мою ущербность",
+                  "bubble_type": "bubble2"
+                }
+              ],
+                "actions": [
+                    {
+                        "name": "action1",
+                        "text": "non action text"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "colors",
+            "params": {
+                "characters": [
+                    "main", "pet"
+                ],
+                "background": "first.png"
+            }
+        }
+    ]
+}

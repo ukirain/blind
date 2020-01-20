@@ -1,0 +1,106 @@
+﻿{
+    "quests": [
+        {
+            "name": "quest4",
+            "properties": {
+				"dialogs": [
+					{
+						"character": "narrator",
+						"text": "Он вошёл в разбитое здание",
+						"bubble_type": "bubble2"
+                    },
+                    {
+						"character": "narrator",
+						"text": "с разбитыми стеклами.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "Судя по полкам и стеллажам,",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "раньше это был магазин техники.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "Прогуливаясь между рядами,",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "По услышал скрипучий голос.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Что тебе здесь нужно?",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "narrator",
+						"text": "Голос был ледяным и грубым.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Кто ты и что это за место?",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Это магазин.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Но кто ты?",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Дай мне бутылку на стеллаже",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "с красной этикеткой.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Ответь мне...",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Дай мне бутылку на стеллаже",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "с красной этикеткой.",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Ладно... Красной?",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "player",
+						"text": "Но я не знаю, какая из них красная...",
+						"bubble_type": "bubble2"
+					},
+                    {
+						"character": "npc",
+						"text": "Посмотри на компьюторе.",
+						"bubble_type": "bubble2"
+					}
+				]
+          	}
+        }
+    ]
+}

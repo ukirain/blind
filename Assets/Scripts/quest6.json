@@ -1,0 +1,146 @@
+{
+    "quests": [
+        {
+            "name": "quests6",
+            "properties": {
+													"dialogs": [
+														{
+															"character": "player",
+															"text": "Ужас какой.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "player",
+															"text": "Оно такое страшное...",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "player",
+															"text": "Такое... оно ужасно.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "npc",
+															"text": "Вот же ты.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Страх сковал По... Ему было страшно.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "в ноздри проникал металлический запах",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "и все внутри сжималось от страха.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Он не мог пошевелиться.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "npc",
+															"text": "Ты бледный. Все хорошо?",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Голос ужасно знакомый По,",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "отдавал металлом и звучал где-то далеко.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "player",
+															"text": "Уходи, ты пугаешь меня, чудовище.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "npc",
+															"text": "По... По... Что ты...",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "npc",
+															"text": "Почему ты такое говоришь?",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "player",
+															"text": "Уходи, тварь!",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "player",
+															"text": "Не трогай меня.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "npc",
+															"text": "Это же я, Ора.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Он глубоко дышал.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Перед ним был ужасный монстр,",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "покрытый кровью и лицам людей.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Он сглотнул и закрыл глаза.",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "npc",
+															"text": "По...",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "player",
+															"text": "Ора это ты?",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "player",
+															"text": "Неужели это ты?",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "По узнал запах",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Запах той, что была рядом",
+															"bubble_type": "bubble2"
+														},
+														{
+															"character": "narrator",
+															"text": "Той что была его миром",
+															"bubble_type": "bubble2"
+														}
+													]
+            }
+        }
+    ]
+}

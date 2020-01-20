@@ -1,0 +1,96 @@
+{
+    "quests": [
+        {
+            "name": "quest5",
+            "properties": {
+                "dialogs": [
+                    {
+                        "character": "player",
+                        "text": "Here's your bottle.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Answer me...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "The door slams, pinching fingers.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Ouuch!",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Hey you... I need you help.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Damn, it hurts really bad.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He saw liquid flowing down his arm,",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "showing up brigter and brighter.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He has never seen anything like this before.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Bright and saturated.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "And it had this metallic scent...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "I don't understand what's going on.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "I need... need to find Ora...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "She always took care of me...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "I need her help...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Where are you...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He left the shop in order to find Ora.",
+                        "bubble_type": "bubble2"
+                    }
+                ]
+            }
+        }
+    ]
+}

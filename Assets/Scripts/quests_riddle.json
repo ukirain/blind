@@ -1,0 +1,45 @@
+{
+    "quests": [
+        {
+            "name": "intro",
+            "properties": {
+                "background": "intro_bg.png",
+              "dialogs": [
+                {
+                  "id": 0,
+                  "character" : "player",
+                  "good": "Good1",
+                  "bad" :  "Shit1"
+                },
+                {
+                  "id": 1,
+                  "character": "player",
+                  "good": "Good2",
+                  "bad": "Shit2"
+                },
+                {
+                  "id": 2,
+                  "character": "player",
+                  "good": "Good3",
+                  "bad": "Shit3"
+                }
+              ],
+                "actions": [
+                    {
+                        "name": "action1",
+                        "text": "non action text"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "colors",
+            "params": {
+                "characters": [
+                    "main", "pet"
+                ],
+                "background": "first.png"
+            }
+        }
+    ]
+}

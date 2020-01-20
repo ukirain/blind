@@ -1,0 +1,136 @@
+{
+    "quests": [
+        {
+            "name": "quests6",
+            "properties": {
+                "dialogs": [
+                    {
+                        "character": "player",
+                        "text": "It's horrifying.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "It's so scary...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "So... dreadful.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "npc",
+                        "text": "Here you are.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Fear gripped him... He was scared.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "This creature emited iron scent,",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "which crawled into the nostrils",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "squeezing insides in fear.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He couldn't move.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "npc",
+                        "text": "You're looking pale. Is everything okay?",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "The  voice so terribly familiar to Po,",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "had a metal shade and sounded distant.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Go away, you scare me, monster.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "npc",
+                        "text": "Po... Po... What are you...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "npc",
+                        "text": "What are you talking about?",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "You smell like... iron...",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Go away, beast!",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Don't touch me.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "npc",
+                        "text": "This is me, Ora.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He was breathing deeply.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He faced a dreadful monster,",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "covered in blood and human faces.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Bloody metal monster.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He swallowed and closed his eyes.",
+                        "bubble_type": "bubble2"
+                    },
+                    {
+                        "character": "npc",
+                        "text": "Po...",
+                        "bubble_type": "bubble2"
+                    }
+                ]
+            }
+        }
+    ]
+}

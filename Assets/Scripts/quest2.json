@@ -1,0 +1,77 @@
+﻿{
+    "quests": [
+        {
+            "name": "intro",
+            "properties": {
+				"dialogs": [
+					{
+						"character": "narrator",
+						"text": "они вышли на улицу",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "npc",
+						"text": "Подожди, мне нужно дозаправиться",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "*смех*",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Почему никто не пытается",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "бороться с этим противным запахом завода",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "и этим удушливым воздухом...",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Неужели никому до этого нет дела",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Какой странный шум",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Похоже на треск",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Скорее на кузнечика из фильма",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Как жаль, что они у нас не водятся",
+						"bubble_type": "bubble2"
+					},
+					{
+						"character": "player",
+						"text": "Шумит где-то рядом",
+						"bubble_type": "bubble2"
+					}
+				],
+				"actions": [
+					{
+						"name": "action1",
+						"text": "non action text"
+					}
+				]
+          	}
+        }
+    ]
+}

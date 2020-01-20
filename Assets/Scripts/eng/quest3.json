@@ -1,0 +1,155 @@
+{
+    "quests": [
+        {
+            "name": "quest3",
+            "properties": {
+                "dialogs": [
+                    {
+                        "character": "player",
+                        "text": "..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "It's bright."
+                    },
+                    {
+                        "character": "player",
+                        "text": "This... This is my hands?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "This is my legs... belly..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Can I... see?!"
+                    },
+                    {
+                        "character": "player",
+                        "text": "I can see!"
+                    },
+                    {
+                        "character": "player",
+                        "text": "The heart is pounding."
+                    },
+                    {
+                        "character": "player",
+                        "text": "*inhale*"
+                    },
+                    {
+                        "character": "player",
+                        "text": "So... I..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "*inhale*"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Where an I?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "This world is beautiful. It's magical!"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Like in fairyrales!"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "His heart is pounding unbelievably fast,"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Like a car engine,"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "gathering speed."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Every movement was a struggle."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "He could hardly understand what was going on."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "It seemed to be a dream."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Despite it was reality."
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "Lightening, punch, terrible pain and the gift,"
+                    },
+                    {
+                        "character": "narrator",
+                        "text": "gained for the price of embrassing suffer."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Where am I?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "What are thsse piles all around?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "This... They seem to be the houses."
+                    },
+                    {
+                        "character": "player",
+                        "text": "Right, this is the houses Ora talked about."
+                    },
+                    {
+                        "character": "player",
+                        "text": "But... But why are they so scary?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "Empty. Aren't people supposed to live inside?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "I need to find Ora."
+                    },
+                    {
+                        "character": "player",
+                        "text": "As fast as possible..."
+                    },
+                    {
+                        "character": "player",
+                        "text": "I'm scared. Ora."
+                    },
+                    {
+                        "character": "player",
+                        "text": "*sigh*"
+                    },
+                    {
+                        "character": "player",
+                        "text": "I need to be strong."
+                    },
+                    {
+                        "character": "player",
+                        "text": "What would she do in my shoes?"
+                    },
+                    {
+                        "character": "player",
+                        "text": "I have to find her."
+                    }
+                ]
+            }
+        }
+    ]
+}
